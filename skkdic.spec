@@ -35,4 +35,4 @@ done
 %files
 %defattr(644,root,root,755)
 %doc	ChangeLog* README* edict_doc.txt
-%{_datadir}/skk/
+%{_datadir}/skk
