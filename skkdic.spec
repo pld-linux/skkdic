@@ -2,7 +2,7 @@ Summary:	Dictionaries for SKK (Simple Kana-Kanji conversion program)
 Summary(pl.UTF-8):	Słowniki dla SKK (konwersji Simple Kana-Kanji)
 Name:		skkdic
 Version:	20110722
-Release:	1
+Release:	2
 License:	GPL v2+
 Group:		Libraries
 # To create source tarball, use Source10
